@@ -91,5 +91,4 @@ int main(void) {
 
 To demonstrate the project it was used to display the output of convolution feature extraction kernals applied to a 3D scene.
 
-
-
+![demo](https://github.com/user-attachments/assets/8379b8ec-4919-40e3-92da-c984006873d0)
